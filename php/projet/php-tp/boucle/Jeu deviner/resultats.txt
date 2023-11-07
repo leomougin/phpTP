@@ -1,0 +1,6 @@
+11/10/2023 17:28:58 - Pseudo: Ethan - Résultat: (V) Excellent Ethan : vous avez trouvé le nombre 55 en 5 tentatives !
+ 
+11/10/2023 17:38:46 - Pseudo: PAAAAAAAAAAAAAAAAAAAAAA - Résultat: (D) Désolé PAAAAAAAAAAAAAAAAAAAAAA : vous avez atteint le nombre maximum de tentatives ! Le nombre était 8 ! 
+ 
+11/10/2023 17:39:35 - Pseudo: Théo - Résultat: (V) Excellent Théo : vous avez trouvé le nombre 97 en 6 tentatives ! 
+ 
